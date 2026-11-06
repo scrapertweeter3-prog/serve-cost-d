@@ -1,0 +1,6 @@
+name "serve-cost"
+description "Serving-cost arithmetic in integer microdollars: convert flat AI serving quotes to exact totals"
+authors "James Verlander"
+homepage "https://www.pastagi.com"
+license "MIT"
+targetType "library"
