@@ -1,0 +1,6 @@
+site_name: serve-cost
+site_description: 'Serving-cost arithmetic in D: integer-microdollar conversion between flat GPU-hour and per-million-token quotes, exact totals, residue flags, and per-second break-evens for invoice audits.'
+repo_url: https://github.com/scrapertweeter3-prog/serve-cost-d
+repo_name: scrapertweeter3-prog/serve-cost-d
+nav:
+  - Home: index.md
